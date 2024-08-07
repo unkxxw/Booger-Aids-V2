@@ -1,0 +1,38 @@
+This ER Diagram is based on the scenario of the project.
+I neeed to make this ER Diagram, take those attributes and use them for the database.
+
+
+
+
+
+
+
+
+
+"A South African Flight Booking Agency wants to develop its online booking system to afford its
+clients a self-service facility. The system will allow customers to check and reserve flights as and
+when required. Customers will be able to view flights based on dates, times, prices, and
+departure and arrival points. Any customer will be able to view flights on the system but only
+registered customers/members can make a reservation.
+
+On registration, a customer is requested to provide a South African ID or passport number as a
+login ID, as well as their e-mail address, telephone number, names, and an optional postal
+address. Customers with an invalid e-mail address, telephone number and/or ID will be rejected.
+The customer is also required to specify the class of flight when booking and ensure that
+information such as dates and times, and places of departure and arrival are correct. The system
+keeps track of flights by their names, dates and destinations. Flights are marked by flight
+number, capacity, name, class and availability. There are three flight classes: 1st (executive
+class), 2nd (business class) and 3rd (economy class).
+
+A ticket can only be reserved for available flights. Each client/customer can only reserve one
+ticket per journey and there can be more than one passenger per ticket. The system keeps track
+of flights by flight numbers, customers’ names, dates and destinations. The system will allocate a
+status of registered and not registered to a customer when an ID number is entered. A booking is
+made using the customer’s name, flight number and date, while an optional discount is available
+for seniors and minors. Based on their ID number, any customer over 65 years is considered a
+senior citizen and anyone under 16 years of age is a minor. Minors may not have ID numbers,
+which would make it impossible to secure a discount when booking online. Customers are also
+given a choice of payment options."
+
+
+
