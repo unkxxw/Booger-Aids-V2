@@ -1,2 +1,2 @@
 # Booger-Aids-V2
-This a simple Flight Booking SQL database system that i did for my SQL Database Management module 
+This project is a simple Flight Booking SQL database(SQL server 2019) system that i made for my SQL Database Management module
